@@ -15,7 +15,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="169.45" skinid="ht_node" target="-178.1/-4.4/70.0" tilt="-0.34" title="Patio interno 2" url="{node4}"/>
+      <hotspot description="" id="Point01" pan="169.39" skinid="ht_node" target="-73.2/-1.8/70.0" tilt="-0.34" title="Patio interno 2" url="{node4}"/>
       <hotspot description="" id="Point02" pan="-109.15" skinid="ht_node" target="52.5/-3.1/70.0" tilt="-1" title="Salon de usos multiples" url="{node14}"/>
     </hotspots>
     <media>
@@ -41,15 +41,15 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="121.46" skinid="ht_node" target="-73.0/-11.7/70.0" tilt="-7.29" title="Camino de ingreso" url="{node3}"/>
-      <hotspot description="" id="Point02" pan="-98.8" skinid="ht_node" target="-28.9/-0.3/70.0" tilt="-0.85" title="Hacia Pileta" url="{node2}"/>
-      <hotspot description="" id="Point03" pan="-11.12" skinid="ht_node" target="6.5/-0.4/70.0" tilt="-3.21" title="Patio interno 1" url="{node1}"/>
+      <hotspot description="" id="Point01" pan="-140.81" skinid="ht_node" target="-73.0/-11.7/70.0" tilt="-5.57" title="Camino de ingreso" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="-0.63" skinid="ht_node" target="-30.8/0.5/70.0" tilt="-1.55" title="Hacia Pileta" url="{node2}"/>
+      <hotspot description="" id="Point03" pan="88.7" skinid="ht_node" target="6.1/-0.5/70.0" tilt="-1.47" title="Patio interno 1" url="{node1}"/>
     </hotspots>
     <media>
-      <lensflare alpha="80.000" blinding="15.000" color="0xffffff" id="Lensflare01" pan="-222.950" tilt="41.100" type="4"/>
       <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
         <source mono="0" url="media/Forest Sounds _ Woodland Ambience Bird Song-1.mp3"/>
       </sound>
+      <lensflare alpha="80.000" blinding="15.000" color="0xffffff" id="Lensflare01" pan="-222.950" tilt="41.100" type="4"/>
     </media>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
@@ -69,7 +69,7 @@
     </view>
     <hotspots>
       <hotspot description="" id="Point01" pan="-26.66" skinid="ht_node" target="-138.8/1.1/70.0" tilt="-1.81" title="Pileta" url="{node7}"/>
-      <hotspot description="" id="Point02" pan="148.97" skinid="ht_node" target="68.0/0.0/70.0" tilt="-0.91" title="Patio interno 2" url="{node4}"/>
+      <hotspot description="" id="Point02" pan="148.97" skinid="ht_node" target="-169.4/-0.5/70.0" tilt="-0.91" title="Patio interno 2" url="{node4}"/>
     </hotspots>
     <media>
       <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
@@ -94,7 +94,7 @@
     </view>
     <hotspots>
       <hotspot description="" id="Point01" pan="-15.85" skinid="ht_node" target="70.8/-4.4/70.0" tilt="-5.51" title="Camino de ingreso" url="{node6}"/>
-      <hotspot description="" id="Point02" pan="22.35" skinid="ht_node" target="-83.4/-3.8/70.0" tilt="1.85" title="Patio interno 2" url="{node4}"/>
+      <hotspot description="" id="Point02" pan="21.09" skinid="ht_node" target="36.6/-2.0/70.0" tilt="1.96" title="Patio interno 2" url="{node4}"/>
     </hotspots>
     <media>
       <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
@@ -143,12 +143,12 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="1" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="94.11" skinid="ht_node" target="145.2/3.6/70.0" tilt="-6.74" title="Ingreso de cochera" url="{node8}"/>
+      <hotspot description="" id="Point01" pan="93.94" skinid="ht_node" target="145.2/3.6/70.0" tilt="-5.58" title="Ingreso de cochera" url="{node8}"/>
       <hotspot description="" id="Point02" pan="-178.87" skinid="ht_node" target="-93.5/-3.9/70.0" tilt="-2.67" title="Palier de ingreso" url="{node13}"/>
       <hotspot description="" id="Point03" pan="-7.77" skinid="ht_node" target="157.6/1.0/70.0" tilt="-0.86" title="Camino de ingreso" url="{node6}"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
+      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.400" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
         <source mono="0" url="media/Forest Sounds _ Woodland Ambience Bird Song-1.mp3"/>
       </sound>
     </media>
@@ -179,7 +179,7 @@
       </polyhotspot>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
+      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.200" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
         <source mono="0" url="media/Forest Sounds _ Woodland Ambience Bird Song-1.mp3"/>
       </sound>
     </media>
@@ -200,11 +200,11 @@
       <max fov="120" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="2.48" skinid="ht_node" target="177.9/3.3/70.0" tilt="0.46" title="Pileta" url="{node7}"/>
+      <hotspot description="" id="Point01" pan="3.12" skinid="ht_node" target="177.9/3.3/70.0" tilt="-1.46" title="Pileta" url="{node7}"/>
       <hotspot description="" id="Point02" pan="-135.55" skinid="ht_node" target="71.5/1.5/70.0" tilt="-0.74" title="Patio interno 1" url="{node1}"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="1" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
+      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
         <source mono="0" url="media/Forest Sounds _ Woodland Ambience Bird Song-1.mp3"/>
       </sound>
     </media>
@@ -229,7 +229,7 @@
       <hotspot description="" id="Point02" pan="-9.95" skinid="ht_node" target="-173.1/0.0/70.0" tilt="-0.0900002" title="Salon de usos multiples" url="{node14}"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="1" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
+      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
         <source mono="0" url="media/Forest Sounds _ Woodland Ambience Bird Song-1.mp3"/>
       </sound>
     </media>
@@ -253,8 +253,8 @@
       <hotspot description="" id="Point01" pan="0.94" skinid="ht_node" target="-88.2/0.2/70.0" tilt="0.0599999" title="Ingreso al edificio" url="{node5}"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="1" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
-        <source mono="0" url="media/Forest Sounds _ Woodland Ambience Bird Song.mp3"/>
+      <sound ambientlevel="0.000" field="90.000" id="_background" level="0.800" loop="0" mode="0" nodechangekeep="0" pan="-1.000" pansize="10.000" startmutedmobile="0" tilt="-1.000" tiltsize="10.000">
+        <source mono="0" url="media/Forest Sounds _ Woodland Ambience Bird Song-1.mp3"/>
       </sound>
     </media>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -881,7 +881,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{b10cdb92-d693-4dc4-88b1-6fbde88d8baa}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{0ba0b685-6198-480b-89d8-50a6f7881912}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
